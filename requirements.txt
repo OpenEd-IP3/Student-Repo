@@ -1,0 +1,11 @@
+jupyter-book
+matplotlib
+numpy
+pyserial
+scipy
+statsmodels
+ipywidgets
+ipycanvas
+shapely
+pyaudio
+tk
