@@ -12,7 +12,7 @@ class GUI:
 
         # Define the canvas size with padding (20 pixels on each side)
         self.padding = 20
-        self.field_size = 480
+        self.field_size = 460
         self.canvas_size = 2 * self.padding + self.field_size
 
         self.mic_positions = np.array([[0, 0], [0, self.field_size], [self.field_size, self.field_size], [self.field_size, 0], [0, self.field_size / 2]])
